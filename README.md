@@ -21,4 +21,12 @@ flask/bin/pip install guess_language
 flask/bin/pip install flipflop
 flask/bin/pip install coverage
 ```
+now add database packages:
+```commandline
+flask/bin/pip install psycopg2 
+flask/bin/pip install sqlalchemy-datatables
+```
+# Project Diverges into two branches
+1. Master branch will stay with the tutorial
+2. SiScout branch will try to create scout visualisation
 
