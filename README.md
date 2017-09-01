@@ -71,3 +71,13 @@ Make dirs using terminal command
 ```commandline
 mkdir app/static app/templates
 ```
+
+## lesson 3 - Web Forms
+
+**Summary:**
+
+- Create Config.py folder
+- Add forms settings for extra security
+- Add forms.py module and create a form class 
+(note the From class we subclass from is now called FlaskForm)
+- Add a login html template which uses a form instance as a variable
